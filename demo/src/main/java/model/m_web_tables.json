@@ -1,0 +1,153 @@
+{
+    "tituloWebTables": {
+        "type": "h1",
+        "text": "Web Tables",
+        "id": null,
+        "name": null,
+        "xPath": "//*[@id='app']/div/div/div/div[2]/h1"
+    },
+    "botonAdd": {
+        "type": "button",
+        "text": "Add",
+        "id": "addNewRecordButton",
+        "name": null,
+        "xPath": "//*[@id='addNewRecordButton']"
+    },
+    "inputSearch": {
+        "type": "input",
+        "text": "Type to search",
+        "id": "searchBox",
+        "name": null,
+        "xPath": "//*[@id='searchBox']"
+    },
+    "botonSearch": {
+        "type": "button",
+        "text": "Search",
+        "id": "searchBox",
+        "name": null,
+        "xPath": "//*[@id='basic-addon2']/span"
+    },
+    "table": {
+        "type": null,
+        "text": null,
+        "id": "webtable",
+        "name": null,
+        "xPath": "//*[@id='app']/div/div/div/div[2]/div[2]/div[3]/div[1]"
+    },
+    "columnFirstName": {
+        "type": null,
+        "text": "First Name",
+        "id": null,
+        "name": null,
+        "xPath": "//*[@id='app']/div/div/div/div[2]/div[2]/div[3]/div[1]/div[1]/div/div[1]/div[1]"
+    },
+    "columnLastName": {
+        "type": null,
+        "text": "First Name",
+        "id": null,
+        "name": null,
+        "xPath": "//*[@id='app']/div/div/div/div[2]/div[2]/div[3]/div[1]/div[1]/div/div[2]/div[1]"
+    },
+    "columnAge": {
+        "type": null,
+        "text": "First Name",
+        "id": null,
+        "name": null,
+        "xPath": "//*[@id='app']/div/div/div/div[2]/div[2]/div[3]/div[1]/div[1]/div/div[3]/div[1]"
+    },
+    "columnEmail": {
+        "type": null,
+        "text": "First Name",
+        "id": null,
+        "name": null,
+        "xPath": "//*[@id='app']/div/div/div/div[2]/div[2]/div[3]/div[1]/div[1]/div/div[4]/div[1]"
+    },
+    "columnSalary": {
+        "type": null,
+        "text": "First Name",
+        "id": null,
+        "name": null,
+        "xPath": "//*[@id='app']/div/div/div/div[2]/div[2]/div[3]/div[1]/div[1]/div/div[5]/div[1]"
+    },
+    "columnDepartment": {
+        "type": null,
+        "text": "First Name",
+        "id": null,
+        "name": null,
+        "xPath": "//*[@id='app']/div/div/div/div[2]/div[2]/div[3]/div[1]/div[1]/div/div[6]/div[1]"
+    },
+    "columnAction": {
+        "type": null,
+        "text": "First Name",
+        "id": null,
+        "name": null,
+        "xPath": "//*[@id='app']/div/div/div/div[2]/div[2]/div[3]/div[1]/div[1]/div/div[7]/div[1]"
+    },
+    "textPage":{
+        "type": "span",
+        "text": "Page",
+        "id": null,
+        "name": null,
+        "xPath": "//*[@id='app']/div/div/div/div[2]/div[2]/div[3]/div[2]/div/div[2]/span[1]"
+    },
+    "inputPage":{
+        "type": "number",
+        "text": "",
+        "id": "page",
+        "name": null,
+        "xPath": "//*[@id='app']/div/div/div/div[2]/div[2]/div[3]/div[2]/div/div[2]/span[1]/div/input"
+    },
+    "textOf":{
+        "type": "span",
+        "text": "of",
+        "id": null,
+        "name": null,
+        "xPath": "//*[@id='app']/div/div/div/div[2]/div[2]/div[3]/div[2]/div/div[2]/span[1]/div/input"
+    },
+    "textMaxPage":{
+        "type": "span",
+        "text": "",
+        "id": null,
+        "name": null,
+        "xPath": "//*[@id='app']/div/div/div/div[2]/div[2]/div[3]/div[2]/div/div[2]/span[1]/span"
+    },
+    "selectPage":{
+        "type": "select",
+        "text": "",
+        "id": null,
+        "name": null,
+        "xPath": "//*[@id='app']/div/div/div/div[2]/div[2]/div[3]/div[2]/div/div[2]/span[2]/select"
+    },
+    "botonPrevious": {
+        "type": "button",
+        "text": "Previous",
+        "id": null,
+        "name": null,
+        "xPath": "//*[@id='app']/div/div/div/div[2]/div[2]/div[3]/div[2]/div/div[1]/button"
+    },
+    "botonNext": {
+        "type": "button",
+        "text": "Next",
+        "id": null,
+        "name": null,
+        "xPath": "//*[@id='app']/div/div/div/div[2]/div[2]/div[3]/div[2]/div/div[3]/button"
+    },
+    "botonActionEdit": {
+        "type": "span",
+        "text": "Edit",
+        "id": null,
+        "name": null,
+        "xPath": "//*[@id='app']/div/div/div/div[2]/div[2]/div[3]/div[1]/div[2]/div[1]/div/div[7]/div/span[@title='Edit']"
+    },
+    "botonActionDelete": {
+        "type": "span",
+        "text": "Delete",
+        "id": null,
+        "name": null,
+        "xPath": "//*[@id='app']/div/div/div/div[2]/div[2]/div[3]/div[1]/div[2]/div[1]/div/div[7]/div/span[@title='Delete']"
+    }
+    
+
+
+}
+
